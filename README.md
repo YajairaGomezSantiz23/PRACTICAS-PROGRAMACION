@@ -1,0 +1,16 @@
+# PRACTICAS-PROGRAMACION
+Practica # 1-Programacion Web
+<DOCTYPE head>
+<head>
+<meta name="description-name"content= IMPLEMENTACION DE UN JUEGO>
+<meta name="autor-name" content= LOOKY
+
+
+<title>
+<h1> Aprendiendo HTML </h1>
+</title>
+</head>
+<body>
+<p> Hoy realizamos practica 1 en HTML </p>
+</body>
+</html>
